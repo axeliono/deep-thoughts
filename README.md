@@ -24,9 +24,9 @@ This projects development environment is using the concurrently package to run b
 
 ## Credits
 
-Chandler Green
-            email: <chandlergreen1997@gmail.com>
-            phone-number: 832-792-4213
+Chandler Green  
+            email: <chandlergreen1997@gmail.com>  
+            phone-number: 832-792-4213  
             linkedIn: https://www.linkedin.com/in/chandleregreen/
 
 
